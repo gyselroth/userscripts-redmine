@@ -3,7 +3,7 @@ h1. Greasemonkey- / user-scripts for client-side UI/UX customization of Redmine
 
 h2. Description
 
-This is a collection of scripts to improve look and feel of Redmine project management, client-sided locally in your browser.
+This is a collection of scripts to improve the look and feel of Redmine project management, client-sided locally in your browser.
 
 These scripts can be used with the greasemonkey plugin in firefox and as user scripts in Chrome (we recommend administration via the Tampermonkey extension).
 
