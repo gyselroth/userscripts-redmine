@@ -3,8 +3,7 @@ h1. Collection of greasemonkey / user scripts for client-side customization of r
 
 h2. Usage
 
-These scripts can be used as user scripts in Chrome (we recommend administration via the Tampermonkey extension),
-or with the greasemonkey plugin in firefox.
+These scripts can be used with the greasemonkey plugin in firefox and as user scripts in Chrome (we recommend administration via the Tampermonkey extension).
 
 
 h2. Installation Notes
