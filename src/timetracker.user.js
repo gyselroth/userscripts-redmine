@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Redmine timetracker
-// @description  Redmine timetracker
+// @description  Better UI styling in timetracker, pre-select current date, add textarea to comment field
 // @match        https://ticket.yourdomain.com/time_entries/new
 // @match        https://ticket.yourdomain.com/time_entries/*/edit
 // @grant        none
